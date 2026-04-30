@@ -1,0 +1,11 @@
+忽略 Python 缓存文件
+pycache/
+*.pyc
+忽略本地输出文件和压缩包
+output/
+*.zip
+.DS_Store
+虚拟环境
+venv/
+env/
+
